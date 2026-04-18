@@ -71,4 +71,4 @@ Layout adaptado para dispositivos móveis com menu hamburger funcional.
 
 ---
 
-🔗Deploy [Link](https://josealbertodeev.github.io/Projeto-de-barbearia/)
+🔗Deploy [Link](https://projeto-de-barbearia.vercel.app/)
