@@ -11,6 +11,10 @@ Landing page moderna e responsiva para a **Barbearia Tratto** — profissionalis
 # Mobile 📱 
 <img width="320" height="689" alt="video mobile" src="https://github.com/user-attachments/assets/c853ccc4-8394-44d9-8790-b9860fdd6cd1" />
 
+# PC 💻 
+
+https://github.com/user-attachments/assets/d8dff280-1548-4dc7-85fd-540d879f0272
+
 ## 📋 Sobre
 
 Site institucional de uma barbearia com design elegante em tons escuros e dourados, totalmente responsivo e com navegação suave entre seções.
